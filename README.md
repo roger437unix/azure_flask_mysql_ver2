@@ -1,3 +1,3 @@
 # App Flask e Mysql para aulas na Azure
 
-![](https://miro.medium.com/v2/resize:fit:447/1*q1MaWVQbiBL50QcFyN3GTw.png)
+![](https://i.morioh.com/2020/05/02/8b275772f2f0.jpg)
